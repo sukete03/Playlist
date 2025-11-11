@@ -6,7 +6,9 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
-  
+#EXTINF:-1 group-title="Live",Kunjungi Situs Kami
+https://suketenet.wixsite.com/krakalnobar
+
 #EXTINF:-1 tvg-logo="https://www.tweeteraser.com/id/resources/wp-content/uploads/2024/05/live-streaming-7943006_640.png" group-title="live",Persita Tangerang VS PSM Makassar
 https://suketenet.wixsite.com/krakalnobar
   
